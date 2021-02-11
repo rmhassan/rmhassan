@@ -1,5 +1,5 @@
 ---
-extends: \_layouts.post
+extends: _layouts.post
 section: content
 title: Laravel 8 - Retrieve one or two columns from Model
 date: 2021-02-11
