@@ -3,6 +3,7 @@ extends: _layouts.post
 section: content
 title: PHP is not dead
 date: 2021-02-24
+categories: [laravel, laravel-8, php]
 description: While listening to Jeffrey Way's podcast I got a flashback to my own experience.
 ---
 
