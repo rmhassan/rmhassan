@@ -13,7 +13,7 @@ description: A little bit about the site
 
     <p class="mb-6">I'm Mehmood. Full Stack Developer from Pakistan. I work at ACE Money Transfer</p>
 
-    <p class="mb-6">This blog is a way to share where I'm at right now. That you are not alone where you are. We all start somewhere. It's true nobody knows everything. It's true even guys with 15+ year google for smallest things. Let's enjoy what is true.</p>
+    <p class="mb-6">This blog is a way to share where I'm at right now. That you are not alone where you are. We all start somewhere. It's true nobody knows everything.</p>
 
     <p class="mb-6">I work on Laravel applications, php, jquery, bootstrap. This is what I work on right now. I want to learn Vue, tailwind, typescript and what not.</p>
 @endsection
