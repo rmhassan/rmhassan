@@ -14,4 +14,4 @@ I was reading a [post](https://laravel-news.com/18-tips-to-optimize-your-laravel
 
 What does this essentialy means that if you have 10 posts, and you do 1 query to retrieve that 10 posts. But there are actually 11 queries running. 1 to get 10 posts and other 10 to retreive authors of these 10 posts.
 
-This is commonly know as N+1 problem.
+This is commonly known as N+1 problem. In Laravel it is pretty easy to overcome this problem by [eager loading](https://laravel.com/docs/8.x/eloquent-relationships#eager-loading) whatever you want to load with actual data.
