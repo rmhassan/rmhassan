@@ -32,4 +32,4 @@ After quiting games, I'm planning to spend more time on writing blog post, creat
 
 I'm sharing this because as for Dylan, Traversy and me, many other people would be facing same problem. So if they find this post they know they are not alone. And they have the courage to quit games to focus on their career.
 
-You can share your thoughts with me at [@RM_Hassan1](https://twitter.com/RM_Hassan1).
+You can share your thoughts with me at [@askrmhassan](https://twitter.com/askrmhassan).
