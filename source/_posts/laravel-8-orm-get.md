@@ -3,7 +3,7 @@ extends: _layouts.post
 section: content
 title: Laravel 8 - Retrieve one or two columns from Model
 date: 2021-02-11
-categories: [laravel, model]
+categories: [laravel, eloquent]
 description: Retrieve only the column that you wanted from querying model in Laravel 8.
 ---
 

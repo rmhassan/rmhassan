@@ -3,7 +3,7 @@ extends: _layouts.post
 section: content
 title: What N+1 problem actually is?
 date: 2021-04-03
-categories: [algorithm, n+1, coding]
+categories: [algorithm]
 featured: false
 description: Do you have big data to work with? Do you retrieve data that is related to other data(which most of the time is)? You may be facing N+1 problem. But do you know what N+1 problem is?
 ---

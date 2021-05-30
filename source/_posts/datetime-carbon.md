@@ -3,7 +3,7 @@ extends: _layouts.post
 section: content
 title: Convert datetime string to  carbon instance with laravel eloquent
 date: 2021-02-24
-categories: [laravel, laravel-8, php, eloquent, carbon, datetime]
+categories: [laravel, php, eloquent]
 featured: false
 description: Cast your datetime string to carbon instance when querying with laravel eloquent.
 ---

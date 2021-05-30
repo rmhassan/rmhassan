@@ -3,7 +3,7 @@ extends: _layouts.post
 section: content
 title: Contributing to open source and overcoming my fear.
 date: 2021-05-30
-categories: [open-source, first-time-contributor, programming, free time]
+categories: [open-source]
 featured: true
 description: Overcoming the fear of imposter syndrom and making first few commits to an open source project. A guide for first time contributors and new commers.
 excerpt: I have quit playing games in my free time (well most of it). So what is a better pastime than contributing a few lines of code(inner peace)?
