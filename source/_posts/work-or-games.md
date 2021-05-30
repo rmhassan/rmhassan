@@ -4,7 +4,7 @@ section: content
 title: Do you work or do you play games? or both?
 date: 2021-04-04
 categories: [life, gaming, programming]
-featured: true
+featured: false
 description: Gaming for work or work for games?
 excerpt: Often times you will find yourself wasting time here and there. It can be worse if you are gamer like me and you are doing a 9-5 job as well.
 ---
