@@ -6,7 +6,7 @@ date: 2021-05-30
 categories: [open-source, first-time-contributor, programming, free time]
 featured: true
 description: Overcoming the fear of imposter syndrom and making first few commits to an open source project. A guide for first time contributors and new commers.
-excerpt: I have quit playing games in my free time (well most of it). So what is a better pastime than contributing a few lines of codes(inner peace)?
+excerpt: I have quit playing games in my free time (well most of it). So what is a better pastime than contributing a few lines of code(inner peace)?
 ---
 
 As soon as I started writing code, I was looking for ways to somehow contribute to open-source.
