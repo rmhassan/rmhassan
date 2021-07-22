@@ -8,11 +8,10 @@
     @if ($page->cover_image)
         <img src="{{ $page->cover_image }}" alt="{{ $page->title }} cover image" class="mb-2">
     @endif
-
-    <h1 class="leading-none mb-2">{{ $page->title }}</h1>
-
-    <p class="text-gray-700 text-xl md:mt-0">{{ $page->author }}  •  {{ date('F j, Y', $page->date) }}</p>
-
+    
+    <p class="text-custom-gray font-bold uppercase tracking-wide">{{ date('F j, Y', $page->date) }}</p>
+    
+    <h1 class="mt-3 text-3xl font-bold text-custom-green leading-tight">{{ $page->title }}</h1>
     @if ($page->categories)
         @foreach ($page->categories as $i => $category)
             <a

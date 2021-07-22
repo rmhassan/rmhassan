@@ -26,8 +26,11 @@
     </head>
 
     <body class="flex flex-col justify-between min-h-screen bg-gray-100 text-gray-800 leading-normal font-sans">
-        <header class="flex items-center shadow bg-white border-b h-24 py-4" role="banner">
-            <div class="container flex items-center max-w-8xl mx-auto px-4 lg:px-8">
+        <header class="flex items-center  h-24 py-4" role="banner">
+            <div class="
+            mx-auto w-full max-w-4xl
+            md:px-6 md:flex md:items-center
+        ">
                 <div class="flex items-center">
                     <a href="/" title="{{ $page->siteName }} home" class="inline-flex items-center">
                         <img class="h-8 md:h-10 mr-3" src="/assets/img/icon.png" alt="{{ $page->siteName }} logo" />
@@ -37,7 +40,7 @@
                 </div>
 
                 <div id="vue-search" class="flex flex-1 justify-end items-center">
-                    <search></search>
+                    <!-- <search></search> -->
 
                     @include('_nav.menu')
 
@@ -48,7 +51,7 @@
 
         @include('_nav.menu-responsive')
 
-        <main role="main" class="flex-auto w-full container max-w-4xl mx-auto py-16 px-6">
+        <main role="main" class="flex-auto w-full container max-w-4xl mx-auto px-6">
             @yield('body')
         </main>
 

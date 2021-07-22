@@ -17,6 +17,12 @@ module.exports = {
   },
   theme: {
     extend: {
+      colors: {
+        'custom-green': '#16737F',
+        'custom-black': '#404040',
+        'custom-gray': '#666666',
+        'custom-pink': '#B1005D'
+      },
       fontFamily: {
         sans: [
           'Nunito Sans'
